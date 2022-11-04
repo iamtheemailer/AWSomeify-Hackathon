@@ -16,9 +16,12 @@ Who will benefit the most from this project?
   1.The solution provided in innovative way is to create a platform that will take care going live in streams and were it can check  audio and mic ,were it is done by   
     giving check boxes after chechboxes gets veified then only we can start the stream .
      
-  2.Creating a aws chatbox related to that topic were community members to make over on but it will just engage it for some timea fter few seconds the speake rwill be   
+  2.Creating a aws chatbox related to that topic were community members to make over on but it will just engage it for some timea fter few seconds the speaker will be   
      recoginised and answered to related or the best way we can say is to  other speakers to engage the question.
     
   3.Creating the frequent quizes after every speakers talk , were that makes the audience more involved so that they do not wait for ending the event. "Kahoot!"
   
   4.Attactring people by getting them swags.
+
+
+so the complete soutions will be managed by aws platform were it can scale up the details and manage throug the required field
